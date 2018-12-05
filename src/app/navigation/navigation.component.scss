@@ -1,0 +1,46 @@
+$facebook-color: #3b5998;
+$twitter-color: #55acee;
+$google-color: #dd4b39;
+$linkedin-color: #0177B5;
+$github-color: #6b6b6b;
+$stackoverflow-color: #2F96E8;
+$dribble-color: #F26798;
+$behace-color: #0093FA;
+$white: #fff;
+.mat-icon-button{
+    background: #28a745 !important
+}
+
+.mat-drawer-inner-container {
+
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    width: 202px;
+    background: rgba(0, 0, 0, 0.34);
+  
+  }
+  .mat-list-item{
+      color: #28a745 !important
+  }
+
+  .mat-sidenav-content{
+      height: 700px !important;
+  }
+  .mat-toolbar-row, .mat-toolbar-single-row {
+  
+      display: flex;
+      box-sizing: border-box;
+      padding: 0 16px;
+      width: 100%;
+      flex-direction: row;
+      align-items: center;
+      white-space: nowrap;
+      background: rgba(0, 0, 0, 0.79);
+  }
+  .mat-sidenav {
+    width: 200px;
+    max-width: 200px;
+    background: rgba(0, 0, 0, 0.79);
+  }
